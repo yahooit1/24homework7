@@ -40,6 +40,7 @@ void printList(headNode* h);
 
 int main()
 {
+	printf("[----- [Gahyun.Kim] [2020045070] -----]")
 	char command;
 	int key;
 	headNode* headnode=NULL;
